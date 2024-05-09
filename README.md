@@ -16,7 +16,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program 
-DEVELOPED BY : SHANMUGA RAJ.K REG NO : 212223040192 <br>
+DEVELOPED BY : SHANMUGA RAJ.K <br>
+REG NO : 212223040192 <br>
 
 import socket
 
